@@ -1,0 +1,11 @@
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/target/debug/deps/matchit-523c10145fd64ca4.rmeta: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/target/debug/deps/libmatchit-523c10145fd64ca4.rlib: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/target/debug/deps/matchit-523c10145fd64ca4.d: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs
+
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/lib.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/error.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/params.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/router.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/matchit-0.7.2/src/tree.rs:

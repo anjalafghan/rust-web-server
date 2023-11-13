@@ -1,0 +1,9 @@
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/frontend/../target-trunk/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-3a490494d09298d9.rmeta: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/frontend/../target-trunk/wasm32-unknown-unknown/debug/deps/libwasm_bindgen_futures-3a490494d09298d9.rlib: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/anjalafghan/RustroverProjects/axum-yew-setup/frontend/../target-trunk/wasm32-unknown-unknown/debug/deps/wasm_bindgen_futures-3a490494d09298d9.d: /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs /Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs
+
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/lib.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/queue.rs:
+/Users/anjalafghan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/wasm-bindgen-futures-0.4.37/src/task/singlethread.rs:
