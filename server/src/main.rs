@@ -87,6 +87,6 @@ async fn hello() -> impl IntoResponse {
     "hello from server!"
 }
 
-async fn try_me() -> impl IntoResponse{
+async fn try_me() -> impl IntoResponse {
     "Try me bitch!"
 }

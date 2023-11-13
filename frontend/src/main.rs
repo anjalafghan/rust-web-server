@@ -10,14 +10,14 @@ enum Route {
     #[at("/hello-server")]
     HelloServer,
     #[at("/try_me")]
-    TryMe
+    TryMe,
 }
 
 fn switch(routes: Route) -> Html {
     match routes {
         Route::Home => html! { <h1>{ "Hello Frontend" }</h1> },
         Route::HelloServer => html! { <HelloServer /> },
-        Route::TryMe => html!{<TryMe />}
+        Route::TryMe => html! {<TryMe />},
     }
 }
 
