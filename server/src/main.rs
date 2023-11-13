@@ -88,5 +88,5 @@ async fn hello() -> impl IntoResponse {
 }
 
 async fn try_me() -> impl IntoResponse {
-    "Try me bitch!"
+    "Try me !"
 }
